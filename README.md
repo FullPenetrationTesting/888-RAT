@@ -17,14 +17,21 @@ DOWNLOAD JRE from here :- https://www.oracle.com/webapps/redirect/signon?nexturl
 RUN and INSTALL Both JDK,JRE
 
 RUN 888-RAT 
+
 GO TO BUILDER
+
 SELECT JDK TO USE THEN, CREATE SERVER
 (YOU WILL GET A ERROR)
+
 HERE IS THE SOLUTION,
+
+
 MOVE given apktool.jar in C:\Users\User\AppData\Local\Temp\apkx 
                           C:\Users\User\AppData\Local\apktool
 DELETE OLD apktool.jar
+
 RESTART 888-RAT again 
+
 RUN BUILDER (NOW IT WILL WORK)
 
 
