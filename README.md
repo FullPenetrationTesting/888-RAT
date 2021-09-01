@@ -27,6 +27,7 @@ HERE IS THE SOLUTION,
 
 
 MOVE given apktool.jar in C:\Users\User\AppData\Local\Temp\apkx 
+                         
                           C:\Users\User\AppData\Local\apktool
 DELETE OLD apktool.jar
 
